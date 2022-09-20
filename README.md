@@ -34,3 +34,10 @@ Layer3
 * UI Interface
 
 
+
+
+# Ethereum Merge - 15 Sep 2022
+
+![merge](https://user-images.githubusercontent.com/77455854/191280818-d041ca90-ba4c-49fd-86b3-50e9656354d4.PNG)
+
+![Ethereum Merge](https://user-images.githubusercontent.com/77455854/191280874-4dd9352a-386d-4524-bb28-e6673ad677e1.PNG)
